@@ -6,5 +6,7 @@
  * Time: 19:05
  */
 
-echo 'bbb';
-echo 'ccc';
+
+echo "miao";
+
+echo "hello world";
