@@ -7,7 +7,7 @@
  */
 
 
-echo "miao";
+echo "ryougishiki";
 
 echo "hello world";
 
