@@ -12,3 +12,5 @@ echo "ryougishiki";
 echo "hello world";
 
 echo "hello miao";
+
+echo "demo";
